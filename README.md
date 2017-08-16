@@ -1,0 +1,1 @@
+# hunspell4s
